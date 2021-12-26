@@ -13,7 +13,7 @@ Finally A JupyterNotebook get data using Api HTTP GET Request with Api Key and P
 <br>- Store all reading in database for doing some  analysis or other processing 
 <br>- the webapp contain Api that provide all reading records stored in database as json format 
 <br>- Analyze data and draw Graph from reading by python <br>
-### Back-end Technologies Used:  <br>
+### Technologies Used:  <br>
 PHP ,  Mysql , JSON , C/C++ <br>
 
 
